@@ -97,9 +97,11 @@ https://github.com/user-attachments/assets/2dfe6d9d-02b9-4e52-b410-4c7cfcb8b235
         - 퀵 정렬
         - 정렬 알고리즘 응용
 
+        <img src="./image/da002.png" width="600">
+
     - 동적 계획법
 
 ## 8일차
 - 자료구조/알고리즘
-    - 검색
+    - 검색 : []()
     - 코딩테스트
