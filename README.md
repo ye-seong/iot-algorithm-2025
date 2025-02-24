@@ -103,5 +103,6 @@ https://github.com/user-attachments/assets/2dfe6d9d-02b9-4e52-b410-4c7cfcb8b235
 
 ## 8일차
 - 자료구조/알고리즘
-    - 검색 : []()
+    - 검색 : [노트북](./day08/da01_search.ipynb)
+        - 응용 : [파이썬](./day08/da02_serach.py)
     - 코딩테스트
